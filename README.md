@@ -210,7 +210,7 @@ Navigating between screens
 
 🔗 GitHub Repository
 
-📦 GitHub Repo: [Add Your Repository Link Here]
+📦 GitHub Repo:(https://github.com/SaneleDlamini77/christosGrill/edit/main/README.md)
 
 🧩 Future Enhancements
 
